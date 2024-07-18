@@ -1,0 +1,23 @@
+.whole{
+    display: grid;
+    
+    gap: 5px;
+}
+.input{
+    border-radius: 16px;
+    font-size: 20px;
+}
+.Search{
+    border-radius: 16px;
+    background-color: #008080;
+    color: black;
+
+}
+.text{
+    font-size: 15px;
+}
+.box{
+    gap: 5px;
+    display: flex;
+    flex-direction: row;
+}
